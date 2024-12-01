@@ -16,12 +16,12 @@ python main.py
 
 ## Requirement
 
-python == 3.8.19
+python 3.8.19
 
-numpy == 1.24.3
+numpy 1.24.3
 
-scipy == 1.10.1
+scipy 1.10.1
 
-pandas == 2.0.3
+pandas 2.0.3
 
-matplotlib == 3.7.2
+matplotlib 3.7.2
