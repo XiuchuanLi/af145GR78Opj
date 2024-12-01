@@ -4,7 +4,7 @@ Install kerpy
 
 ```(bash)
 cd kerpy
-python.setup.py develop
+python setup.py develop
 cd ..
 ```
 Run algorithm
